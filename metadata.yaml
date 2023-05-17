@@ -1,0 +1,39 @@
+_repo: Women-compositors-b-A-guide-to-the-composing-room_70438
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Faithfull, Emily
+    birthdate: 1835
+    deathdate: 1895
+    gutenberg_agent_id: '55760'
+    url: http://www.gutenberg.org/2009/agents/55760
+    wikipedia: https://en.wikipedia.org/wiki/Emily_Faithfull
+creator:
+  author:
+    agent_name: H. G. B.
+    alias: B., H. G.
+    gutenberg_agent_id: '55759'
+    url: http://www.gutenberg.org/2009/agents/55759
+description: ''
+gutenberg_issued: '2023-04-01'
+identifiers:
+  gutenberg: '70438'
+language: en
+pgterms:marc904: https://archive.org/details/case_wing_z_408_983
+pgterms:marc905: 20220701102230bauthor
+pgterms:marc906: '1880'
+pgterms:marc907: UK
+production_note: Fay Dunn, PrimeNumber and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUK :$bThe Victoria Press, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Typesetting'
+- !lcsh 'Women printers'
+- !lcc 'Z'
+- GITenberg
+title: 'Women compositors : $b A guide to the composing room'
+url: http://www.gutenberg.org/ebooks/70438
