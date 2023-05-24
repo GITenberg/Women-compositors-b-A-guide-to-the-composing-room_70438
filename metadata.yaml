@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '55760'
     url: http://www.gutenberg.org/2009/agents/55760
     wikipedia: https://en.wikipedia.org/wiki/Emily_Faithfull
+covers:
+- cover_type: archival
+  image_path: 70438-h/images/cover.jpg
 creator:
   author:
     agent_name: H. G. B.
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '55759'
     url: http://www.gutenberg.org/2009/agents/55759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70438#Women-compositors-b-A-guide-to-the-composing-room
 gutenberg_issued: '2023-04-01'
 identifiers:
   gutenberg: '70438'
